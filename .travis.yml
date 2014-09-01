@@ -15,5 +15,4 @@ after_success:
     - coverage run --source=june setup.py -q nosetests
     - coveralls
 
-notifications:
-    email: false
+
