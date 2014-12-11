@@ -21,4 +21,4 @@ after_success:
 archive: true
 
 commit_container: shipci/june
-build_image: shippable/minv2:beta 
+
